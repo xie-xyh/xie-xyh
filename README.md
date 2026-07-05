@@ -210,38 +210,36 @@ Worked on OrienLink, an intelligent driving data closed-loop platform.
 </div>
 
 ---
-
 ## 🛠 Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
+**Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-### LLM / Agent / RAG
+**LLM / Agent / RAG**
 
-![LLM Agent](https://img.shields.io/badge/LLM-Agent-8A2BE2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Hybrid%20Retrieval-blue?style=for-the-badge)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-Orchestration-purple?style=for-the-badge)
-![Context Engineering](https://img.shields.io/badge/Context-Engineering-green?style=for-the-badge)
-![MCP](https://img.shields.io/badge/MCP-Tool%20Protocol-orange?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-ff69b4?style=for-the-badge)
+![LLM Agent](https://img.shields.io/badge/LLM_Agent-8A2BE2?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1E90FF?style=flat-square)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-7B68EE?style=flat-square)
+![Context Engineering](https://img.shields.io/badge/Context_Engineering-2E8B57?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-FF8C00?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF69B4?style=flat-square)
 
-### Tools & Databases
+**Tools & Databases**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent%20Workflow-black?style=for-the-badge)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-blue?style=for-the-badge)
-![Milvus](https://img.shields.io/badge/Milvus-Vector%20Database-00A1EA?style=for-the-badge)
-![Cursor](https://img.shields.io/badge/Cursor-AI%20IDE-black?style=for-the-badge)
-![Codex](https://img.shields.io/badge/Codex-AI%20Coding-36BCF7?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-333333?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-007ACC?style=flat-square)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-36BCF7?style=flat-square)
 
 </div>
-
 ---
 
 ## 📫 Contact
